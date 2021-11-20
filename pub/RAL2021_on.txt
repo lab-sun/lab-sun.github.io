@@ -1,9 +1,0 @@
-@ARTICLE{huang2021on,
-  author={Huaiyang Huang and Yuxiang Sun and Jin Wu and Jianhao Jiao and Xiangcheng Hu and Linwei Zheng and Lujia Wang and Ming Liu},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={On Bundle Adjustment for Multiview Point Cloud Registration}, 
-  year={2021},
-  volume={6},
-  number={4},
-  pages={8269-8276},
-  doi={10.1109/LRA.2021.3105686}}

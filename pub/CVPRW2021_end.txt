@@ -1,8 +1,0 @@
-@InProceedings{wang2021end,
-author = {Hengli Wang and Peide Cai and Rui Fan and Yuxiang Sun and Ming Liu},
-title = {End-to-End Interactive Prediction and Planning With Optical Flow Distillation for Autonomous Driving},
-booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-month = {June},
-year = {2021},
-pages = {2229-2238}
-}

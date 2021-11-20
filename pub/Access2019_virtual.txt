@@ -1,9 +1,0 @@
-@ARTICLE{chen2019virtual,
-  author={Qi Chen and Yuxiang Sun and Min Zhao and Ming Liu},  
-  journal={IEEE Access}, 
-  title={A Virtual Structure Formation Guidance Strategy for Multi-Parafoil Systems}, 
-  year={2019},
-  volume={7},
-  number={},
-  pages={123592-123603},
-  doi={10.1109/ACCESS.2019.2938078}}
