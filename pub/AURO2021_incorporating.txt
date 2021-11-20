@@ -1,0 +1,10 @@
+﻿@article{huang2021incorporating,
+author={Huaiyang Huang and Haoyang Ye and Yuxiang Sun and Lujia Wang and Ming Liu},
+title={Incorporating learnt local and global embeddings into monocular visual SLAM},
+journal={Autonomous Robots},
+year={2021},
+month={Aug},
+day={05},
+issn={1573-7527},
+doi={10.1007/s10514-021-10007-8}}
+
